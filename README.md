@@ -7,7 +7,7 @@ I love mixing **software engineering, AI, and cybersecurity** to create things t
 
 ⚡ Fun facts about me:  
 - When I’m not coding, I’m probably running 🏃‍♂️ like I’m being chased by bugs.  
-- Learning new languages 🌐 (human and programming) is my cardio.  
+- Learning new languages and cultures 🌐 is my cardio.  
 - Breaking things on purpose 🔐 counts as exercise, right?  
 
 ---
